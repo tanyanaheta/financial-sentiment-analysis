@@ -15,6 +15,10 @@ This project replicated and extended FinBERT to classify sentiment in financial 
 - Improved FinBERT precision by +9% with additional pseudo-labeled data
 - Reduced misclassification in positive/neutral categories by 12%
 - Extension validated FinBERT’s domain advantage vs. BERT base in ESG sentence tagging
+- FinBERT vs. BERT-base: Performance Comparison
+<img src="finberteval.png" width="400"/>
+FinBERT consistently outperformed BERT-base across precision, recall, and F1 — especially with less data.  
+Semi-supervised training pipeline helped FinBERT reach 0.81 F1 on the full dataset.
 
 ## 🔗 Links
 - 🔍 [View Full Notebook (HTML)](finbert_sentiment.html)
