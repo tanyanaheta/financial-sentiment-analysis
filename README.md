@@ -17,6 +17,7 @@ This project replicated and extended FinBERT to classify sentiment in financial 
 - Extension validated FinBERT’s domain advantage vs. BERT base in ESG sentence tagging
 
 ## 🔗 Links
-- 🔍 [View Full Notebook (HTML)](rendered_html/finbert_sentiment.html)
-- 🧾 [Final Report (PDF)](report.pdf)
+- 🔍 [View Full Notebook (HTML)](finbert_sentiment.html)
+- 🧾 [Final Report (PDF)](Finbert_Extension_Report.pdf)
+- 🧾 [Poster (PDF)](Finbert_Extension_Poster.pdf)
 - 🌐 [Portfolio](https://tanyanaheta.github.io)
